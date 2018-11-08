@@ -6,4 +6,4 @@ my_bool = True
 animal = "cat"
 #You need to assign the other value also to ten_animals
 ten_animals = "animal"
-ten_animals = animal *10
+ten_animals = animal * 10
